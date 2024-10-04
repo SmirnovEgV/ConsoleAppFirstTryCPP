@@ -20,7 +20,7 @@ Possibly it will have mechanic of whenever the app loads it loads the list of bo
 
 
 - [C++ main site](https://isocpp.org/get-started)
-- [Pluralsight C++20 Fundamentals]([http://url.link.goes.here](https://app.pluralsight.com/ilx/video-courses/45e41527-96b5-461b-bcd0-202217e8c0b7/a2adc073-1e54-4e05-b1f4-b552fbc422b1/72b38e5d-62a9-4e23-8953-b6157359c45c))
+- [Pluralsight C++20 Fundamentals](https://app.pluralsight.com/ilx/video-courses/45e41527-96b5-461b-bcd0-202217e8c0b7/a2adc073-1e54-4e05-b1f4-b552fbc422b1/72b38e5d-62a9-4e23-8953-b6157359c45c)
 - [ChatGPT](https://chatgpt.com/)
 
 # Future Work
