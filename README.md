@@ -11,10 +11,10 @@ Possibly it will have mechanic of whenever the app loads it loads the list of bo
 
 # Development Environment
 
-*C++ language 
-*Visual Studio Community 2022 with C++ additions taken from [C++ main site](https://isocpp.org/get-started)
-*standart library for C++ 
-*Git
+-C++ language 
+-Visual Studio Community 2022 with C++ additions taken from [C++ main site](https://isocpp.org/get-started)
+-standart library for C++ 
+-Git
 
 # Useful Websites
 
