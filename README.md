@@ -6,27 +6,24 @@ rent and return a book.
 I was a bit lazy in making it so far.
 Possibly it will have mechanic of whenever the app loads it loads the list of books from previous session, which might be saved as CSV file, or connected and retrieved from SQL DB.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](https://youtu.be/nI9eVos-6n8)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+*C++ language 
+*Visual Studio Community 2022 with C++ additions taken from [C++ main site](https://isocpp.org/get-started)
+*standart library for C++ 
+*Git
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [C++ main site](https://isocpp.org/get-started)
+- [Pluralsight C++20 Fundamentals]([http://url.link.goes.here](https://app.pluralsight.com/ilx/video-courses/45e41527-96b5-461b-bcd0-202217e8c0b7/a2adc073-1e54-4e05-b1f4-b552fbc422b1/72b38e5d-62a9-4e23-8953-b6157359c45c))
+- [ChatGPT](https://chatgpt.com/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Library automatically exports booklist to DB or CSV file on app closure.
+- Library automatically imports booklist from DB or CSV file on app opening.
+- Create an interface that can be ran from .exe
