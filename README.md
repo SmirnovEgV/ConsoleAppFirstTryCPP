@@ -1,10 +1,10 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
-
-{Describe your purpose for writing this software.}
+Yeah, so I thought cpp language is queite hard and demanding but it appears my info was outdated.
+I've done the simple libraray console application that, for now, have a few test books created every iteration and options to show those books,
+rent and return a book. 
+I was a bit lazy in making it so far.
+Possibly it will have mechanic of whenever the app loads it loads the list of books from previous session, which might be saved as CSV file, or connected and retrieved from SQL DB.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
